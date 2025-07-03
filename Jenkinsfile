@@ -113,3 +113,4 @@ EOF'''
     failure  { echo '❌ Pipeline échoué' }
   }
 }
+// Fin
